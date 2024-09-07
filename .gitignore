@@ -2,6 +2,8 @@ maps/map_1
 maps/map_2
 maze.dSYM
 # textures
-.vscode
 maze
 media
+.gitignore
+
+.vscode/

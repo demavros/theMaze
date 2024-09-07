@@ -15,7 +15,7 @@ I invite you to step into the world of "maze" and experience the thrill of explo
 - Compile with `gcc` using Makefile:
     `make -f Makefile`
 - With textures: Run the maze: `./maze` or `./maze maps/<map_name>`
-- With no textures: Run the maze: `./meze no_texture` or `./maze maps/<map_name> no_texture`
+- With no textures: Run the maze: `./maze no_texture` or `./maze maps/<map_name> no_texture`
 
 #### Key Controls
 - `A` : rotate camera left
